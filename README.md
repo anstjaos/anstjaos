@@ -10,8 +10,8 @@
 
 * KIT 👨‍🎓(2013.03 ~ 2020.02)
 * 10th Software Maestro🖥(2019.05 ~ 2019.12)
-* NHN Global Development Team👨‍💻(2020.03 ~ 2020.10)
-* NHN Cloud Data Platform Development Lab(2020.10 ~)
+* NHN Global Development Team👨‍💻(2020.03 ~ 2021.10)
+* NHN Cloud Data Platform Development Lab(2021.10 ~)
 
 
 
