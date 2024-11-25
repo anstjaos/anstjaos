@@ -8,12 +8,10 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanstjaos%2Fhit-counter"/></a>                        
 </div>
 
-* KIT 👨‍🎓(2013.03 ~ 2020.02)
-* 10th Software Maestro🖥(2019.05 ~ 2019.12)
-* NHN Global Development Team👨‍💻(2020.03 ~ 2021.10)
 * NHN Cloud Data Platform Development Lab(2021.10 ~)
-
-
+* NHN Global Development Team👨‍💻(2020.03 ~ 2021.10)
+* 10th Software Maestro🖥(2019.05 ~ 2019.12)
+* KIT 👨‍🎓(2013.03 ~ 2020.02)
 
 <div align=center>
   <h3>
