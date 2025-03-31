@@ -4,9 +4,6 @@
   </h2>
 </div>
 
-<div align=center>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanstjaos%2Fhit-counter"/></a>                        
-</div>
 
 * NHN Cloud Data Platform Development Lab(2021.10 ~)
 * NHN Global Development Team👨‍💻(2020.03 ~ 2021.10)
