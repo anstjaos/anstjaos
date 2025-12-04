@@ -30,7 +30,7 @@
 
 ---
 
-[![anstjaos's github stats](https://github-readme-stats.vercel.app/api?username=anstjaos)](https://github.com/anstjaos/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anstjaos&hide_border=true&layout=compact"/>
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 
 
